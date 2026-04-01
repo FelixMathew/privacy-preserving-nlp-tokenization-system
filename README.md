@@ -111,24 +111,25 @@ python app.py
 cd frontend
 npm install --legacy-peer-deps
 npm run dev
+----
 📊 Usage
 Upload CSV or Excel file
 System detects sensitive fields
 Tokenization is applied
 Output is displayed in UI
+----
 📌 Applications
 🔐 Secure Data Processing Systems
 🏦 Banking Data Protection
 🏥 Healthcare Record Privacy
 🎓 Academic Data Security
 🧠 Privacy-Aware NLP Systems
+-----
 🔐 Why Tokenization?
-
-Tokenization replaces sensitive data with random tokens, ensuring:
-
-Data cannot be misused
-Original values remain protected
-System remains functional for analytics
+1. Tokenization replaces sensitive data with random tokens, ensuring:
+2. Data cannot be misused
+3. Original values remain protected
+4. System remains functional for analytics
 
 📜 License
 This project is licensed under the MIT License.
